@@ -30,8 +30,8 @@ Dilate the imge using cv2.dilate().
 
 ## Program:
 ```
-DEVELOPED BY :JEEVAGOWTHAM S
-REG NO: 212222230053
+DEVELOPED BY :S VAISHNAV NANDA
+REG NO: 212222240112
 ```
 
 
